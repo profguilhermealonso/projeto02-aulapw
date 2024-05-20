@@ -80,7 +80,7 @@ header .logo{
 	float: left;
 	width: 160px;
 	height: 40px;
-	background-image: url('../imagens/logo-danki.png');
+	/*background-image: url('../imagens/logo-danki.png');*/
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -285,7 +285,7 @@ section.sessao1 .container{
 	float: left;
 	width: 40px;
 	height:40px;
-	background-image: url('../imagens/actor1.png');
+	background-image: url('../imagens/actor1.jpg');
 	background-size: 100% 100%;
 	border-radius: 20px;
 	background-color: transparent;
